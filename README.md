@@ -1,16 +1,16 @@
 # Power BI Financial Reporting & Analysis Dashboard
 
-This project is a financial reporting suite built in Power BI as part of my training in Financial Analysis with Power BI. It includes fully interactive dashboards for:
+- This project is a financial reporting suite built in Power BI as part of my training in Financial Analysis with Power BI. It includes fully interactive dashboards for:
 
-Profit & Loss Statement – Sales, Gross Profit, Operating & Net Profit with margin KPIs.
+  - Profit & Loss Statement – Sales, Gross Profit, Operating & Net Profit with margin KPIs.
 
-Balance Sheet Statement – Assets vs Liabilities & Equity, including Capital Structure KPIs (Debt-to-Asset, Debt-to-Equity, Equity Ratio).
+  - Balance Sheet Statement – Assets vs Liabilities & Equity, including Capital Structure KPIs (Debt-to-Asset, Debt-to-Equity, Equity Ratio).
 
-Cash Flow Statement – Operating, Investing & Financing cash flow trends.
+  - Cash Flow Statement – Operating, Investing & Financing cash flow trends.
 
-Horizontal & Vertical Analysis – Year-over-year change analysis and common-size reporting.
+  - Horizontal & Vertical Analysis – Year-over-year change analysis and common-size reporting.
 
-Foreign Currency & FX Conversions – Daily transactions converted into USD with rolling averages.
+  - Foreign Currency & FX Conversions – Daily transactions converted into USD with rolling averages.
 
 
 
