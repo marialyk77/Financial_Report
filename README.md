@@ -17,11 +17,11 @@
 
 **While based on course material, I extended the project by:**
 
-  - Designing a custom layout and color theme for a professional look.
+   - Designing a custom layout and color theme for a professional look.
 
-  - Adding KPI cards with contextual indicators (margins, ratios, growth %).
+   - Adding KPI cards with contextual indicators (margins, ratios, growth %).
 
-  - Using bookmarks for interactive navigation.
+   - Using bookmarks for interactive navigation.
 
 ## Key Insights from the dashboards
 
