@@ -17,18 +17,18 @@
 
 **While based on course material, I extended the project by:**
 
-   - Designing a custom layout and color theme for a professional look.
+    - Designing a custom layout and color theme for a professional look.
 
-   - Adding KPI cards with contextual indicators (margins, ratios, growth %).
+    - Adding KPI cards with contextual indicators (margins, ratios, growth %).
 
-   - Using bookmarks for interactive navigation.
+    - Using bookmarks for interactive navigation.
 
 ## Key Insights from the dashboards
 
-Profitability: Gross Profit Margin of ~68% and Net Margin near 19% show a strong bottom-line.
+- Profitability: Gross Profit Margin of ~68% and Net Margin near 19% show a strong bottom-line.
 
-Capital Structure: Equity finances ~84% of assets, with modest leverage (Debt-to-Equity ~19%).
+- Capital Structure: Equity finances ~84% of assets, with modest leverage (Debt-to-Equity ~19%).
 
-Cash Flow: Operating cash flows are consistently positive, supporting reinvestment.
+- Cash Flow: Operating cash flows are consistently positive, supporting reinvestment.
 
-Trend Analysis: Horizontal analysis highlights YoY growth in revenues, while vertical analysis shows cost structures as % of sales.
+- Trend Analysis: Horizontal analysis highlights YoY growth in revenues, while vertical analysis shows cost structures as % of sales.
