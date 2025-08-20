@@ -13,6 +13,9 @@
   - **Foreign Currency & FX Conversions** – Daily transactions converted into USD with rolling averages.
 
 
+## Sources 
+
+This project was developed while following the Udemy course: Power BI for Financial Reporting and Financial Analysis: https://www.udemy.com/course/power-bi-for-financial-reporting-and-financial-analysis/learn/lecture/40283326#overview
 
 
 **While based on course material, I extended the project by:**
