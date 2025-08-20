@@ -12,6 +12,17 @@ Horizontal & Vertical Analysis – Year-over-year change analysis and common-siz
 
 Foreign Currency & FX Conversions – Daily transactions converted into USD with rolling averages.
 
+
+
+
+**While based on course material, I extended the project by:**
+
+- Designing a custom layout and color theme for a professional look.
+
+- Adding KPI cards with contextual indicators (margins, ratios, growth %).
+
+- Using bookmarks for interactive navigation.
+
 ## Key Insights from the dashboards
 
 Profitability: Gross Profit Margin of ~68% and Net Margin near 19% show a strong bottom-line.
